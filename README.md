@@ -1,6 +1,6 @@
 # Row Counter
 
-Count your knitting rows from Raycast.
+Count your knitting rows from Raycast. For people who, like me, knit a lot while on their laptops.
 
 - **Add Row** - adds a row and shows the current row
 - **Show Row Count** - shows how many rows you've done
