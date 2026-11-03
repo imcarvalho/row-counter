@@ -1,3 +1,8 @@
+## Live now 🎉🧶
+
+[![Raycast Store](https://img.shields.io/badge/Raycast-Store-FF6363?logo=raycast&logoColor=white)](https://raycast.com/cosmos/row-counter)
+[![Downloads](https://img.shields.io/raycast/dt/cosmos/row-counter?logo=raycast&label=downloads)](https://raycast.com/cosmos/row-counter)
+
 # Row Counter
 
 Count your knitting rows from Raycast. For people who, like me, knit a lot while on their laptops.
